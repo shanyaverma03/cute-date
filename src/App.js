@@ -1,8 +1,12 @@
-import Date from "./components/Date";
+import Test from "./components/Test";
 import logo from "./logo.svg";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <div className="App">
+      <Test />
+    </div>
+  );
 }
 
 export default App;
