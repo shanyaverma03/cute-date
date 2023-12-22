@@ -39,7 +39,7 @@ const Test = () => {
       <div className="gif">
         {response === "yes" ? (
           <img
-            src="https://media.giphy.com/media/lck9f0L8jPjRtkigYy/giphy.gif"
+            src="https://media.giphy.com/media/PtGsNIfHKioAMMa77H/giphy.gif"
             alt="please"
           />
         ) : (
